@@ -1,0 +1,26 @@
+{
+  "name": "dcjs-webpack-example",
+  "version": "1.0.0",
+  "description": "Example of using dc.js in a webpack project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esjewett/dcjs-webpack-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esjewett/dcjs-webpack-example/issues"
+  },
+  "homepage": "https://github.com/esjewett/dcjs-webpack-example#readme",
+  "devDependencies": {
+    "webpack": "^2.5.1"
+  },
+  "dependencies": {
+    "dc": "^2.0.2"
+  }
+}
